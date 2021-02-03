@@ -6,3 +6,5 @@ jezeli cos chcielismy ustawic przed render -nie jest juz zalecana!! i wycofana z
 componentDidMount() wywoluje sie jako ostatnia po metodzie render
 
 componentDidUpdate() 
+
+![img](./assets/img.png)
